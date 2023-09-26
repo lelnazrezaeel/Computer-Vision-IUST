@@ -43,7 +43,7 @@ My solutions to IUST's Fundamentals of Computer Vision , Spring 2023, Dr. Mohamm
 - Answers: [Link to HW10](https://github.com/lelnazrezaeel/Computer-Vision-IUST/tree/main/Homeworks/HW10)
 
 #### HW11
-- Description: Homework 11 covers feature learning, neural networks, convolutional neural networks, and ANN architectures.
+- Description: Homework 11 covers feature learning, neural networks, convolutional neural networks, and CNN architectures.
 - Answers: [Link to HW11](https://github.com/lelnazrezaeel/Computer-Vision-IUST/tree/main/Homeworks/HW11)
 
 #### HW12
