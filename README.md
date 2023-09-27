@@ -1,5 +1,5 @@
 # Computer-Vision-IUST
-My solutions to IUST's Fundamentals of Computer Vision , Spring 2023, Dr. Mohammadi.
+My solutions to IUST's Fundamentals of Computer Vision , Fall 2022, Dr. Mohammadi.
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homeworks
 ### HW1
